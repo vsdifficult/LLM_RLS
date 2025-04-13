@@ -1,0 +1,5 @@
+
+namespace RLS.Core.Models
+{ 
+    
+}

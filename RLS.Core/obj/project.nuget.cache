@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwHuLNfdZnc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Difficult\\Documents\\GitHub\\LLM_RLS\\RLS.Core\\RLS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Difficult\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Difficult\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
